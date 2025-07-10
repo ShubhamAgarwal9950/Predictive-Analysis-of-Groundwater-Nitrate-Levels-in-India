@@ -33,9 +33,4 @@ slow water movement, allowing nitrate to accumulate in shallow zones.
 11. Fluvisols 
 A soil type found in river floodplains and alluvial deposits. Often associated with shallow water 
 tables and high agricultural activity — prone to nitrate pollution. 
-How I get these 11 parameters 
-1. Parameter having lot of missing values we had not included that 
-2. Correlation Analysis helped detect features with direct linear relationships with nitrate.  
-3. Trained a Random Forest Regressor to evaluate the non-linear predictive power of each 
-feature. 
-4. Used RFE with Random Forest to iteratively eliminate less significant features. 
+
